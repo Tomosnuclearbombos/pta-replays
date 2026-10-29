@@ -1,6 +1,6 @@
-# Tomo's Nukes replays
+# Part-Time Airforce replays
 
-Tacview recordings of missions played on Tomo's Nukes, the Nuclear Option servers (dsc.gg/tomosnukes). Every mission
+Tacview recordings of missions played on Part-Time Airforce (PTA), the Nuclear Option servers (dsc.gg/tomosnukes). Every mission
 on the servers is recorded with NOBlackBox and uploaded here, one release per mission, and the Discord post for that
 mission links to its file.
 
